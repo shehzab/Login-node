@@ -6,8 +6,8 @@ CSRF is implemented.A basic home route is provided as an example of an authentic
 
 Key Features:
 
-User registration with bcrypt password hashing
-Passport.js integration for local authentication
-Session management and protection against CSRF attacks
-Basic example of an authenticated home route
-Responsive error handling and flash messages
+--User registration with bcrypt password hashing
+--Passport.js integration for local authentication
+--Session management and protection against CSRF attacks
+--Basic example of an authenticated home route
+--Responsive error handling and flash messages
